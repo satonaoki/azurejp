@@ -1,1 +1,1 @@
-# AzureJapan
+# azurejp
